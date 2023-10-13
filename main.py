@@ -81,7 +81,7 @@ def getBeijinTime():
         min_1 = int(K * min_1)
         max_1 = int(K * max_1)
         min_1 = 6667
-        max_1 = 10000
+        max_1 = 8000
     else:
         print("获取北京时间失败")
         return
